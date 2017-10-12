@@ -52,7 +52,7 @@ status = false;
 
 %% ===== Checking of input  parameters ===================================
 nargmin = 1;
-nargmax = 2;
+nargmax = 1;
 narginchk(nargmin,nargmax);
 
 
