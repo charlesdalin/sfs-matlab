@@ -11,11 +11,6 @@ function status = test_interpolation_point_selection(modus)
 %
 %   Output parameters:
 %       status - true or false
-%
-%   TEST_INTERPOLATION_POINT_SELECTION(modus) checks, if the grid point
-%   selection for piecewise linear interpolation is implemented correctly. The
-%   are currently two different implementations for the selection:
-%   findconvexconce and findvoronoi.
 
 %*****************************************************************************
 % The MIT License (MIT)                                                      *
